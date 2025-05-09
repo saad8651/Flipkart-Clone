@@ -1,7 +1,7 @@
 const products = [
-    { id: 1, name: "iPhone 15", price: 79999, image: "https://via.placeholder.com/200" },
-    { id: 2, name: "Samsung Galaxy S23", price: 69999, image: "https://via.placeholder.com/200" },
-    { id: 3, name: "Sony Headphones", price: 9999, image: "https://via.placeholder.com/200" }
+    { id: 1, name: "iPhone 15", price: 79999, image: "https://powermaccenter.com/cdn/shop/files/iPhone_15_Pro_Max_Natural_Titanium_PDP_Image_Position-1__en-US_3295c924-7c21-417d-870c-32bee7f1e310.jpg?v=1695861436&width=823" },
+    { id: 2, name: "Samsung Galaxy S23", price: 69999, image: "https://sm.pcmag.com/t/pcmag_me/photo/default/s23-ultra-18_n5vf.1920.jpg" },
+    { id: 3, name: "Sony Headphones", price: 9999, image: "https://www.bing.com/th/id/OIP.QRKVvy3OugyohiXulElgmwHaHa?w=195&h=185&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" }
 ];
 
 const productList = document.getElementById("product-list");
